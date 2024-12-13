@@ -1,0 +1,13 @@
+id,name,desc,price,quantity
+0,Toyota Corolla,En paver och branslesnal kompaktbil,220000,5
+1,Ford Mustang,En klassisk amerikansk sportbil med V8-motor,600000,3
+2,Audi A4,En lyxig sedan med avancerad teknik och komfortåäö,450000,4
+3,Volvo XC90,En saker och rymlig SUV perfekt for familjer,650000,2
+4,Mercedes-Benz C-Class,En elegant och stilren bil med en kraftfull motor,550000,6
+5,BMW 320i,En sportig och hogpresterande bil med bra hantering,500000,4
+6,Volkswagen Golf,En praktisk och mangsidig hatchback,250000,7
+7,Chevrolet Bolt,En elbil med lang rackvidd och miljovanliga funktioner,350000,3
+8,Honda Civic,En popular och bransleeffektiv bil,230000,5
+9,Porsche 911,En ikonisk sportbil med enastende prestanda,1200000,1
+10,Nissan Leaf,En budgetvanlig elbil med enkel teknik och bra rackvidd,300000,6
+11,Ferrar F40,Ferrarin som de mäktigaste människorna i världen äger,16400000,1
